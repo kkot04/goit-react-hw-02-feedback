@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kkot04.github.io/react-homework-template/static/css/main.ab541a5e.css",
+    "main.js": "/kkot04.github.io/react-homework-template/static/js/main.7470627c.js",
+    "index.html": "/kkot04.github.io/react-homework-template/index.html",
+    "main.ab541a5e.css.map": "/kkot04.github.io/react-homework-template/static/css/main.ab541a5e.css.map",
+    "main.7470627c.js.map": "/kkot04.github.io/react-homework-template/static/js/main.7470627c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab541a5e.css",
+    "static/js/main.7470627c.js"
+  ]
+}
