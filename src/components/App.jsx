@@ -47,7 +47,7 @@ export class App extends React.Component {
           </div>
         </Section>
         {this.countTotalFeedback() === 0 ? (
-          <Notification message="There is no feedback" />
+          <Notification message="No feedback given" />
         ) : (
           <Section title="Statistics">
             <Statistics
